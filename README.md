@@ -75,7 +75,7 @@ Robot Operating System or ROS is a middleware that makes it convenient to develo
 
 
 ### Steps: 
-1. Clone this repository inside the src directory of your catkin workspace
+1. Clone this repository inside the src directory of your ros2 workspace
 2. Create a ros2 package with the name `ros2_basics_pub_sub` by running the `ros2 pkg create` command from the src directory of your ros2 workspace, adding `ament_python` as your build_type and `pub_node` as the node name. This should create the files that are necessary to convert your cloned repository into a ros2 package
 
 ### Expected Output:
